@@ -1,11 +1,29 @@
-👋 Hi, I’m Clessio
+# 👋 Hi, I’m Clessio
 
-👀 I’m interested in JAVA development
+## 👀 About Me
+I have 7 years of experience in QA, starting as a manual tester and transitioning into **automated testing**. I specialize in creating, maintaining, and executing automated tests for **Web**, **API**, and **Mobile** applications. I work with **Jenkins** for continuous integration and manage defect tracking via **Jira**.
 
-🌱 I’m currently learning JAVA backend
+## 🌱 Currently Learning
+I’m currently deepening my knowledge in **Java Backend** and **API Automation**.
 
-💻 I’m an automated testing developer
-<!---
-clessio35/clessio35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Skills & Tools
+- **Test Automation**:
+  - **Cypress**
+  - **Cucumber**
+  - **Java-Selenium**
+  - **JUnit**
+- **API Testing**:
+  - **Postman** (manual & code-based automation)
+  - **RestAssured** (for API testing automation in Java)
+- **Continuous Integration**:
+  - **Jenkins**
+- **Bug & Defect Management**:
+  - **Jira**
+
+## 🚀 What I Do
+- Write and maintain **automated tests** for Web, API, and Mobile applications.
+- Execute **regression tests** and manage test pipelines in **Jenkins**.
+- Track and manage **defects** and issues using **Jira**.
+
+## 🔗 Connect With Me
+Feel free to reach out for collaboration or discussions about **Automation Testing**, **Java**, or **Backend Development**!
